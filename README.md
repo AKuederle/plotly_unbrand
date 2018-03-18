@@ -10,7 +10,7 @@ I can just pass this into the config of each plotting call:
 ```python
 from plotly.plotly import plot
 
-UNBRAND_CONFIG = dict(modeBarButtonsToRemove=['sendDataToCloud'], displaylogo=False, showTips=True, showLink=False)
+UNBRAND_CONFIG = dict(modeBarButtonsToRemove=['sendDataToCloud'], displaylogo=False, showLink=False)
 plot([Scatter(x=[1, 2, 3], y=[3, 1, 6])], config=UNBRAND_CONFIG)
 ```
 

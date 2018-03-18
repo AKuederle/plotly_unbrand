@@ -3,7 +3,7 @@ import plotly.offline
 
 from functools import wraps
 
-UNBRAND_CONFIG = dict(modeBarButtonsToRemove=['sendDataToCloud'], displaylogo=False, showTips=True, showLink=False)
+UNBRAND_CONFIG = dict(modeBarButtonsToRemove=['sendDataToCloud'], displaylogo=False, showLink=False)
 
 
 def inject_config(injected_config, force_wrap=False):
