@@ -3,8 +3,8 @@
 Dear Plotly-Team,
 
 I love you and your library, but sometimes, I do not openly want to show my love.
-Sometimes, when working with a customer or when embedding a plot into a talk, I don't want to multiple links to your online platform directly next to my data.
-Luckily, you seem to very understanding about this and made it possible for me to remove all traces of your brand (besides the trademark beautiful esthetics, of course) from my plots.
+Sometimes, when working with a customer or when embedding a plot into a talk, I don't want to have multiple links to your online platform directly next to my data.
+Luckily, you seem to be very understanding about this and made it possible for me to remove all traces of your brand (besides the trademark beautiful esthetics, of course) from my plots.
 I can just pass this into the config of each plotting call:
 
 ```python
