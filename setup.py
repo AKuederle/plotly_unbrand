@@ -19,7 +19,7 @@ setuptools.setup(
     license='LICENSE',
 
     classifiers=[
-        'Development Status:: 5 - Production / Stable',
+        'Development Status :: 5 - Production/Stable',
         'Programming Language :: Python :: 3.5',
     ],
 )
