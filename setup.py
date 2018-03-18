@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="plotly_unbrand",
-    version="1.0.0",
+    version="1.0.1",
     url="https://github.com/AKuederle/plotly_unbrand",
 
     author="Arne Küderle",
